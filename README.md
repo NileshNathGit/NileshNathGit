@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NileshNath
 - 👀 I’m interested in Testing applications and finding Bugs and cook them up 
-- 🌱 I’m currently learning Cucumber and API Testing and a bit of AI to help me both
+- 🌱 I’m currently learning Cucumber and API Testing and a bit of AI to help me in both
 - 💞️ I’m looking to collaborate on Application testing and finding new ways to disect programs 
 - 📫 How to reach me nileshnath1706@gmail.com / Linkd : nilesh-nath-56a563202
 - 😄 Pronouns: HE/HIM and the ONE 
